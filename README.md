@@ -2,9 +2,9 @@
 
 ## System Requirements
 `Hardware: 8 vCPUs, 16 GB RAM, and at least 300 GB storage (NVMe SSD).
-Network: Port 9944.
-Network speed: At least 500 MBps.
-OS: Ubuntu versions 18.04, 20.04, or 22.04`
+ Network: Port 9944.
+ Network speed: At least 500 MBps.
+ OS: Ubuntu versions 18.04, 20.04, or 22.04`
 
 ### Install Docker
 ```
